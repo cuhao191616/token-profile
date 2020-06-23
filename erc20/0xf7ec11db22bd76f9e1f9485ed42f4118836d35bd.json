@@ -1,0 +1,17 @@
+{
+  "symbol": "USDE",
+  "address": "0xf7ec11db22bd76f9e1f9485ed42f4118836d35bd",
+  "overview":{
+        "en": "",
+        "zh": "USDE项目资料：USDE是一家根据伯利兹国家相关法律在伯利兹国家注册成立的公司，该公司是一个专门供用户进行数字期权交易和提供相关服务的平台。EXcoin是全球首家推出数字期权交易的区块链衍生品交易所。EXcoin向全球用户提供各种创新型区块链资产衍生品，由EXcoin Limited.负责运营。EXcoin数字期权衍生品交易平台是合法持有牌照的专业交易平台。"
+  },
+  "email": "info@excoin.io",
+  "website": "https://excoin.io/",
+  "whitepaper": "http://excoin.io/download/whitepaper_cn.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2019-03-01",
+  "links": {
+    "twitter": "https://twitter.com/ExcoinF",
+    "facebook": "https://www.facebook.com/EXcoinF/"
+  }
+}
